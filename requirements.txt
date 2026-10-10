@@ -1,0 +1,7 @@
+streamlit
+streamlit-cropper
+opencv-python
+numpy
+qrcode[pil]
+pillow
+zxing-cpp
