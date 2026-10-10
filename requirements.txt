@@ -1,7 +1,6 @@
 streamlit
 streamlit-cropper
-opencv-python
-numpy
-qrcode[pil]
-pillow
-zxing-cpp
+opencv-python-headless==4.8.1.78
+numpy==1.26.4
+qrcode[pil]==8.0
+pillow==10.4.0
